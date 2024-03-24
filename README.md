@@ -1,5 +1,5 @@
 # poetrycorpus
-A corpus of public domain (mostly Victorian romantics) poetry for training (about 300k lines of poetry, ~2M words) 
+A corpus of public domain (mostly Victorian romantics) poetry for training (about 6k poems, 300k lines of poetry, ~2M words) 
 
 Jsonl is pretty straightforward--poem, author, title.
 
